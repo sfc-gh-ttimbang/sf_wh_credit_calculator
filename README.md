@@ -1,4 +1,4 @@
-❄️ Snowflake Workload & Credit Calculator
+# ❄️ Snowflake Workload & Credit Calculator
 
 This is a simple Snowflake cost estimation tool built with Streamlit.
 
